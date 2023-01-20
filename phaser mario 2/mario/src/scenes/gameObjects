@@ -1,0 +1,7 @@
+class Player {
+    constructor(scene, x, y) {
+        
+    }
+}
+
+export default Player;
